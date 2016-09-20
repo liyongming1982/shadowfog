@@ -1,11 +1,10 @@
 
 {
     "port_password": {
-        "8381": "foobar1",
-        "8382": "foobar2",
-        "8383": "foobar3",
-        "8384": "foobar4",
-        "9797": "foobar4",
-        "1122": "foobar4"
+        "1111": "foobar1",
+        "2222": "foobar2",
+        "3333": "foobar3",
+        "4444": "foobar4",
+        "5555": "foobar4"
     },
 }
