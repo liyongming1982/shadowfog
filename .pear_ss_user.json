@@ -1,4 +1,4 @@
 
 {
-    "shadowfog_host": "http://localhost:8080/v1"
+    "shadowfog_host": "http://localhost:8090/v1"
 }
